@@ -15,8 +15,8 @@ A simple, beginner-friendly student management program built in Python. This scr
 
 ## 🖥️ Technologies Used
 
-- **Python 3**
-- Standard libraries (`input()`, `print()`, `lists`, etc.)
+- **C**
+- dynamic memory allocation
 
 ---
 
