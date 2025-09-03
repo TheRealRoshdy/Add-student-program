@@ -20,12 +20,6 @@ A simple, beginner-friendly student management program built in Python. This scr
 
 ---
 
-## 🚀 Getting Started
-
-### ✅ Requirements
-
-Make sure you have **Python 3.x** installed.
-
 ### ▶️ How to Run
 
 ```bash
