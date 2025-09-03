@@ -17,12 +17,3 @@ A simple, beginner-friendly student management program built in Python. This scr
 
 - **C**
 - dynamic memory allocation
-
----
-
-### ▶️ How to Run
-
-```bash
-git clone https://github.com/TheRealRoshdy/Add-student-program.git
-cd Add-student-program
-python3 add_student.py
